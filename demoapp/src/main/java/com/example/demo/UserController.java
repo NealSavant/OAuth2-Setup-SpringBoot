@@ -22,6 +22,13 @@ public class UserController {
 		System.out.println(principal.getAuthorities());
 		return principal.getAttributes();
     }
+	
+	/*
+	 * 
+	 * For Reference purposes, not implemented in the front end controller.
+	 * This is how one might access the tokens associated with the user.
+	 * 
+	 * 
 	@GetMapping("/getAccessToken")
 	public OAuth2AccessToken accessToken(@RegisteredOAuth2AuthorizedClient OAuth2AuthorizedClient authorizedClient) {
 		return authorizedClient.getAccessToken();
@@ -39,4 +46,5 @@ public class UserController {
 		
 		return refreshResponseClient.getTokenResponse(grantRequest).getAccessToken();
 	}
+	*/
 }
