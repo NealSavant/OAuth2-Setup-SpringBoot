@@ -4,6 +4,11 @@
 #### Purpose
 A repository developed to help developers overcome the initial knowledge gap required to implement OAuth 2.0 API's into their web application.
 
+#### Live Demonstration
+Meeting Recording:
+https://us02web.zoom.us/rec/share/3soqDL_I73tIfavSs1jfC_EwPZveX6a8gSRLqfpczks5KCVx_f6gshtaw6joaoIi
+Access Password: GetSkilled88!
+
 #### Google Slides Link
 https://docs.google.com/presentation/d/1kwKkcv7NaSe0fe0E35bAuRQZ5ZgLrO_sUDtWGUpTX1U/edit?usp=sharing
 
