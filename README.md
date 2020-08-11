@@ -9,7 +9,7 @@ https://docs.google.com/presentation/d/1kwKkcv7NaSe0fe0E35bAuRQZ5ZgLrO_sUDtWGUpT
 
 ### End result Photos
 
-## Useful Links
+## Useful Resources
 
 #### OAuth 2.0 Documentation by Oracle
 https://docs.oracle.com/cd/E50612_01/doc.11122/oauth_guide/content/oauth_intro.html
