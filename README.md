@@ -1,5 +1,9 @@
 # OAuth 2.0 Client Application Starter Project
 ### Presentation on OAuth 2.0: Applications without passwords
+
+#### Purpose
+A repository developed to help developers overcome the initial knowledge gap required to implement OAuth 2.0 API's into their web application.
+
 #### Google Slides Link
 https://docs.google.com/presentation/d/1kwKkcv7NaSe0fe0E35bAuRQZ5ZgLrO_sUDtWGUpTX1U/edit?usp=sharing
 
